@@ -6,7 +6,7 @@
     <parent>
         <groupId>com.udun</groupId>
         <artifactId>udun-dependencies</artifactId>
-        <version>1.0.2-SNAPSHOT</version>
+        <version>1.0.6-SNAPSHOT</version>
     </parent>
 
     <artifactId>zero</artifactId>
@@ -31,6 +31,10 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
         </dependency>
 
         <dependency>

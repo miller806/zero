@@ -1,5 +1,5 @@
 /**
  * @author miller
- * @date ${.now?string["yyyy/MM/dd"]}
+ * @since ${.now?string["yyyy/MM/dd"]}
  * @since 1.0.0
  */
